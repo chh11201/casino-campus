@@ -69,7 +69,7 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 
-# Test results
+# PokerTest results
 TEST-*.xml
 test-results/
 

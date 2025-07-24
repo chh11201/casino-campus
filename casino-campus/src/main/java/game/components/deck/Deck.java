@@ -137,8 +137,8 @@ public class Deck {
         // - "덱이 비어있습니다" 에러: isEmpty() 체크를 하지 않았습니다
         // - "카드가 제거되지 않았습니다" 에러: remove() 메서드를 호출하지 않았습니다
         // - IndexOutOfBoundsException: 빈 리스트에서 카드를 뽑으려고 했습니다
-        
-        throw new UnsupportedOperationException("drawCard() 메서드가 아직 구현되지 않았습니다");
+
+
     }
     
     /**
